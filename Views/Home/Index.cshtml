@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<string>
+
+<div class="text-center">
+  <h1 class="display-4">Welcome</h1>
+  @* <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
+  <form action="/upload" method="post" enctype="multipart/form-data">
+    <label for="img">Upload receipt file</label>
+    <br>
+    <input type="file" name="files" id="" multiple>
+    <br>
+    <button>Upload</button>
+  </form>
+  <br>
+  <br>
+  @if (Model != null)
+  {
+    @foreach (string img64 in Model)
+    {
+      <img src="data:image;base64,@img64">
+    }
+  }
+</div>

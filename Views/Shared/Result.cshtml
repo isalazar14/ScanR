@@ -1,0 +1,28 @@
+@{
+  ViewData["Title"] = "Home Page";
+}
+@* @using ReceiptScanner.Models *@
+@model List<ItemToView>
+
+<div class="text-center">
+  <h3>Receipt Recognition Result</h3>
+  <div class = "half col-2">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+        <th>Item Name</th>
+        <th>Item Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        @foreach(ItemToView i in @Model)
+        { 
+          <tr>
+          <td>@i.ItemName</td>
+          <td>@i.ItemPrice</td>
+          </tr>
+        }  
+      </tbody>
+    </table>
+  </div>
+</div>

@@ -1,0 +1,2824 @@
+Results: 
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Unable to parse '10
+****************************
+Name probably is Ana
+****************************
+Unable to parse 'T
+****************************
+Unable to parse '.01
+****************************
+Unable to parse ',
+****************************
+Unable to parse '$0.05
+****************************
+Unable to parse '$0.01-
+****************************
+Unable to parse 'L
+****************************
+Unable to parse '$0
+****************************
+Price probably is 22.05
+****************************
+Unable to parse '$0.00
+****************************
+Name probably is Swipe
+****************************
+Unable to parse '$22.
+****************************
+Unable to parse '19
+****************************
+Unable to parse '$22.05
+****************************
+Unable to parse '$22.11
+****************************
+Unable to parse '8287
+****************************
+Unable to parse '$113.86
+****************************
+Price probably is 0.05
+****************************
+Price probably is 1.58
+****************************
+Price probably is 1.19
+****************************
+Price probably is 2.99
+****************************
+Price probably is 2.99
+****************************
+Price probably is 1
+****************************
+Price probably is 2.19
+****************************
+Price probably is 0.76
+****************************
+Price probably is 3.99
+****************************
+Price probably is 3.49
+****************************
+Price probably is 0.99
+****************************
+Price probably is 0.69
+****************************
+Name probably is USD$
+****************************
+Name probably is DAILY
+****************************
+Unable to parse '1991
+****************************
+Name probably is JOE'S
+****************************
+Unable to parse 'NE
+****************************
+Unable to parse '055824
+****************************
+Unable to parse '05
+****************************
+Unable to parse '547-6299
+****************************
+Name probably is DOZE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Method:
+****************************
+Unable to parse '98105
+****************************
+Name probably is Way
+****************************
+Name probably is Adj
+****************************
+Unable to parse 'LB
+****************************
+Unable to parse '10:00PM
+****************************
+Name probably is EACH
+****************************
+Name probably is EACH
+****************************
+Unable to parse '0137
+****************************
+Unable to parse '2
+****************************
+Name probably is SEQ
+****************************
+Unable to parse '2LB
+****************************
+Unable to parse 'WA
+****************************
+Name probably is EACH
+****************************
+Unable to parse '(206)
+****************************
+Name probably is BROWN
+****************************
+Name probably is Entry
+****************************
+Name probably is EACH
+****************************
+Unable to parse 'XL
+****************************
+Unable to parse 'TO
+Unable to parse 'XL
+****************************
+Name probably is CHIPS
+****************************
+Name probably is EACH
+****************************
+Unable to parse '-
+****************************
+Name probably is Fee
+****************************
+Unable to parse 'XL
+****************************
+Name probably is Roosevelt
+****************************
+Name probably is JUMBO
+****************************
+Name probably is TORT
+****************************
+Unable to parse '79/EA
+****************************
+Unable to parse '19/EA
+****************************
+Name probably is JOSIE'S
+****************************
+Unable to parse '#137
+****************************
+Unable to parse '03:18PM
+****************************
+Name probably is APPROVED
+****************************
+Name probably is YELLOW
+****************************
+Name probably is QUART
+****************************
+Name probably is ORANGE
+****************************
+Name probably is GREEN
+****************************
+Name probably is ORGANIC
+****************************
+Name probably is Seattle
+****************************
+Unable to parse '9:00AM
+****************************
+Name probably is RED
+****************************
+Unable to parse '678968
+****************************
+Price probably is 0
+****************************
+Price probably is 0
+****************************
+Unable to parse '1
+****************************
+Unable to parse '1
+****************************
+Unable to parse '-
+****************************
+Name probably is HONEYCRISP
+****************************
+Unable to parse '4555
+****************************
+Unable to parse ':
+****************************
+Unable to parse '186192606586558991
+****************************
+Unable to parse '@
+****************************
+Unable to parse '419260658655890943
+****************************
+Name probably is Balance:
+****************************
+Name probably is Balance:
+****************************
+Unable to parse '@
+****************************
+Name probably is TRADER
+****************************
+Name probably is BAG
+****************************
+Name probably is CORN
+****************************
+Name probably is FOOD
+****************************
+Name probably is XXXXXXXXXXXX7307
+****************************
+Name probably is Bag
+****************************
+Unable to parse '#
+****************************
+Name probably is YELLOW
+****************************
+Name probably is EACH
+****************************
+Name probably is Store
+****************************
+Name probably is HALF
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is BELL
+****************************
+Name probably is OPEN
+****************************
+Unable to parse '16
+****************************
+Name probably is TAX
+****************************
+Name probably is TAX
+****************************
+Name probably is BAG
+****************************
+Unable to parse ':
+****************************
+Name probably is CODE
+****************************
+Unable to parse '#:
+****************************
+Name probably is Benefits
+****************************
+Name probably is LARGE
+****************************
+Unable to parse '&
+****************************
+Name probably is Food
+****************************
+Name probably is Cash
+****************************
+Name probably is FEE
+****************************
+Name probably is BLUE
+****************************
+Unable to parse '2EA
+****************************
+Unable to parse '4EA
+****************************
+Name probably is ITEMS
+****************************
+Name probably is EBT
+****************************
+Name probably is TOTAL
+****************************
+Name probably is TransID:
+****************************
+Name probably is STATE
+****************************
+Unable to parse '09-17-2019
+****************************
+Name probably is Ticket
+****************************
+Name probably is EBT
+****************************
+Name probably is AUTH
+****************************
+Name probably is Total
+****************************
+Name probably is EBT
+****************************
+Name probably is CARD
+****************************
+Name probably is EGGS
+****************************
+Name probably is Food
+****************************
+Name probably is EBT
+****************************
+Name probably is PEPPER
+****************************
+Name probably is ONIONS
+****************************
+Name probably is APPLE
+****************************
+Name probably is SUBTOTAL
+****************************
+Name probably is STATE
+****************************
+Name probably is PURCHASE
+****************************
+Name probably is PEPPER
+****************************
+Name probably is PEPPER
+****************************
+Name probably is MANDARIN
+****************************
+Name probably is ORG
+****************************
+Name probably is PEPPER
+****************************
+Name probably is HALF
+****************************
+Name probably is BANANA
+****************************
+Name probably is BAG
+****************************
+Name probably is TRADER
+Name probably is JOE'S
+****************************
+Unable to parse '595
+Name probably is Roosevelt
+Name probably is May
+Unable to parse '98105
+Unable to parse 'ME
+****************************
+Name probably is Stare
+Name probably is app
+Unable to parse '#137
+Name probably is Tie
+Unable to parse '-
+Unable to parse '4206)
+Unable to parse 'My
+Unable to parse '547-1294
+****************************
+Name probably is ITEN
+Unable to parse '9:C0AH
+Unable to parse '10
+Unable to parse '10:10PM
+Name probably is DAILY
+****************************
+Unable to parse 'N
+Unable to parse 'G
+Name probably is SMUSAGE-LESS
+Name probably is ITAL
+Name probably is SADCODE
+Price probably is 2.99
+****************************
+Price probably is 2.23
+****************************
+Name probably is HAS
+Unable to parse 'B.
+Name probably is SAM.
+Name probably is BEEN
+Name probably is EACH
+Unable to parse '18
+Unable to parse '#
+Unable to parse '&
+Name probably is CLEAN
+Name probably is TEA
+Price probably is 0
+Unable to parse '39
+****************************
+Unable to parse 'D.
+Unable to parse '15/EA
+****************************
+Name probably is TOTAL
+Price probably is 412.44
+****************************
+Name probably is EBT
+Name probably is FOOD
+Unable to parse '$12.
+Unable to parse '24
+****************************
+Name probably is HELHASE
+Unable to parse '160$
+Price probably is 12.44
+****************************
+Name probably is Total:
+Name probably is Entry
+Name probably is Method:
+****************************
+Name probably is Find
+Name probably is Somef
+Name probably is its
+****************************
+Name probably is Bil
+Name probably is Food
+Unable to parse 'Be
+Name probably is lance:
+Price probably is 80
+****************************
+Name probably is ELil
+Name probably is Cash
+Name probably is Balance:
+****************************
+Name probably is ATTH
+Name probably is CODE:
+Unable to parse '379273
+Unable to parse 'ED
+Unable to parse '#:
+Unable to parse '027334
+****************************
+Unable to parse 'T
+Name probably is chet
+Unable to parse '#
+Unable to parse '31987-743230641063
+****************************
+Name probably is fri-22
+Unable to parse '2019
+Unable to parse '05:49M
+Unable to parse '0137
+Unable to parse '02
+Unable to parse '1015
+Unable to parse '2546
+****************************
+Name probably is THATE,
+Name probably is YOU
+Name probably is FOR
+Name probably is SHOPPING
+Unable to parse 'AT
+Name probably is TRADER
+Name probably is JOE'S
+****************************
+Name probably is wisitrakirous.com
+Name probably is the
+Name probably is podsaall
+****************************
+Name probably is Inside
+Name probably is Tracer
+Name probably is the
+Name probably is Joe's
+Name probably is Captain's
+Unable to parse 'I
+Name probably is Megtires.
+****************************
+Unable to parse '17:
+Name probably is Live
+Name probably is Arvanilla
+Name probably is fin
+Name probably is Sauteaber
+Unable to parse '16th
+****************************
+Name probably is TRADER
+Name probably is JOE'S
+****************************
+Unable to parse '4555
+Name probably is Roosevelt
+Name probably is Way
+Unable to parse 'NE
+****************************
+Name probably is Seattle
+Unable to parse 'WA
+Unable to parse '98105
+****************************
+Name probably is Store
+Unable to parse '#137
+Unable to parse '-
+Unable to parse '(206)
+Unable to parse '547-6299
+****************************
+Name probably is OPEN
+Unable to parse '9:COAM
+Unable to parse 'TO
+Unable to parse '10:00PM
+Name probably is DAILY
+****************************
+Unable to parse 'R.
+Unable to parse 'CE
+Name probably is MEDLEY
+Price probably is 3.99
+****************************
+Name probably is VIG
+Name probably is SAUSAGE-LESS
+Name probably is ITAL
+Name probably is SAUSAGE
+Price probably is 2.99
+****************************
+Name probably is MUSHROOMS
+Name probably is CRIMINI
+Name probably is BROWN
+Unable to parse '8
+Unable to parse 'OZ
+Price probably is 2.29
+****************************
+Name probably is BEANS
+Name probably is GREEN
+Name probably is TRIM
+Unable to parse '&
+Name probably is CLEAN
+Unable to parse '1LB
+Price probably is 2.79
+****************************
+Name probably is BANANA
+Name probably is EACH
+Price probably is 0.38
+****************************
+Name probably is ZEA
+Unable to parse '@
+Price probably is 0
+Unable to parse '19/EA
+****************************
+Name probably is SUBTOTAL
+Unable to parse '$12.
+Unable to parse '44
+****************************
+Name probably is TOTAL
+Unable to parse '$12.44
+****************************
+Name probably is EBT
+Name probably is FOOD
+Unable to parse '$12.44
+****************************
+Name probably is PURCHASE
+Unable to parse '-
+Name probably is APPROVED
+Name probably is USD$
+Price probably is 12
+Unable to parse '44
+****************************
+Name probably is Total
+Name probably is Benefits
+Unable to parse ':
+Name probably is Entry
+Name probably is Method:
+Name probably is Swipe
+****************************
+Name probably is Food
+Unable to parse '$87.65
+****************************
+Name probably is ENIT
+Name probably is Food
+Name probably is Balance:
+Unable to parse '$0.00
+****************************
+Name probably is ElIT
+Name probably is Cash
+Name probably is XXXXXXXXXXXX7307
+Name probably is Balance:
+****************************
+Name probably is CARD
+Unable to parse '#:
+Unable to parse '369275
+Name probably is SEQ
+Unable to parse '#
+Unable to parse ':
+Unable to parse '027334
+****************************
+Name probably is ALITH
+Name probably is CODE
+Unable to parse '319265749236641062
+Unable to parse ':
+****************************
+Unable to parse 'T
+Name probably is cket
+Unable to parse '#
+Unable to parse '185192657492365426
+****************************
+Name probably is TansID:
+****************************
+Unable to parse 'I
+Name probably is EMS
+Unable to parse '6
+Unable to parse 'W,
+Name probably is Lindsay
+****************************
+Unable to parse '0'1-22-2019
+Unable to parse '05:49PM
+Unable to parse '0137
+Unable to parse '02
+Unable to parse '1015
+Unable to parse '2543
+****************************
+Name probably is THANK
+Name probably is YOU
+Name probably is FOR
+Name probably is SHOPPING
+Unable to parse 'AT
+Name probably is TRADER
+Name probably is JOE'S
+****************************
+Name probably is www.
+Name probably is traderjoes
+Unable to parse '.
+Name probably is com
+Name probably is podcast
+Unable to parse ')
+****************************
+Name probably is Inside
+Name probably is Tracer
+Name probably is Joe's
+Unable to parse '(the
+****************************
+Unable to parse '17:
+Name probably is Live
+Name probably is from
+Name probably is the
+Name probably is Captain's
+Name probably is Meeting...
+****************************
+Name probably is Available
+Name probably is September
+Unable to parse '16th
