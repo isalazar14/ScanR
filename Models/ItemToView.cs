@@ -7,5 +7,6 @@ namespace ReceiptScanner.Models
     {
         public string ItemName { get; set; }
         public double ItemPrice { get; set; }
+        // public 
     }
 }

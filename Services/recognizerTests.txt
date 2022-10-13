@@ -1,0 +1,12 @@
+get direct link from google drive shared img
+https://www.labnol.org/embed/google/drive/
+https://drive.google.com/uc?id=[file-id]
+https://drive.google.com/uc?export=view&id=[file-id]
+
+receitScanner test img 0
+
+https://lh5.googleusercontent.com/zbGsCij2dLk9bsPxT4sWV63jxLmg9fxlmxJvIsE28vNdxBnU51rnt-ThH5PpuYvQ4kc=w2400
+
+receiptScanner test img 1
+
+https://lh3.googleusercontent.com/JfDIvRZZ2waVJW1H_lWHGoHOJYBwQqD13CKhGLlq11UFqRSzwohp85FO6_ItuQAQxYU=w2400

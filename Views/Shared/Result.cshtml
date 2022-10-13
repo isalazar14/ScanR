@@ -2,27 +2,40 @@
   ViewData["Title"] = "Home Page";
 }
 @* @using ReceiptScanner.Models *@
-@model List<ItemToView>
+@model ResultsViewModel
+
+
 
 <div class="text-center">
   <h3>Receipt Recognition Result</h3>
-  <div class = "half col-2">
-    <table class="table table-striped">
-      <thead>
-        <tr>
-        <th>Item Name</th>
-        <th>Item Price</th>
-        </tr>
-      </thead>
-      <tbody>
-        @foreach(ItemToView i in @Model)
-        { 
+  <div class="row">
+    <div class="col-4">
+      <img src="~/uploads/@Model.ImgPath" alt="Image of receipt" style="max-width:300px;">
+    </div>
+    <div class="col">
+      @* @Model.Results *@
+      <table class="table table-striped">
+        <thead>
           <tr>
-          <td>@i.ItemName</td>
-          <td>@i.ItemPrice</td>
+          <th>Item Name</th>
+          <th>Item Price</th>
+          <td>Category</td>
           </tr>
-        }  
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          @foreach(ItemToView i in @Model.Results)
+          { 
+            @if(i.ItemPrice > 0 && i.ItemName != "")
+            {
+              <tr>
+              <td>@i.ItemName</td>
+              <td>@i.ItemPrice</td>
+              <td></td>
+              </tr>
+            }
+          }
+        </tbody>
+      </table>
+    </div>
   </div>
 </div>

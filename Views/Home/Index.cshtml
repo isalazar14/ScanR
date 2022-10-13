@@ -3,23 +3,53 @@
 }
 @model List<string>
 
-<div class="text-center">
-  <h1 class="display-4">Welcome</h1>
-  @* <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
+<div class="main text-center">
+  <h1 class="display-4">Dashboard</h1>
+  <input class="form-control" id="myInput" type="text" placeholder="Search...">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <td>Receipt</td>
+        <td>Store</td>
+        <td>Date</td>
+        <td>Amount</td>
+        <td>Categories</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href=""></a> </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
   <form action="/upload" method="post" enctype="multipart/form-data">
-    <label for="img">Upload receipt file</label>
+    <label for="img">Upload receipt</label>
     <br>
-    <input type="file" name="files" id="" multiple>
+    <input type="file" name="file" id="">
     <br>
-    <button>Upload</button>
+    <button id="btn-upload">Upload</button>
+    <br>
+    <br>
   </form>
   <br>
   <br>
-  @if (Model != null)
-  {
-    @foreach (string img64 in Model)
-    {
-      <img src="data:image;base64,@img64">
-    }
-  }
 </div>
+
+<script>
+  $(document).ready(function(){
+    $("#btn-upload").click(function(){
+      $("form").append("<div class='spinner-border' role='status'><div>")
+    });
+    $("#myInput").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $("#myTable tr").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+    });
+  });
+</script>

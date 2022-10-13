@@ -7,17 +7,17 @@ using System.Text;
 using System.IO;
 namespace ReceiptScanner.Models{
 
-    public class Photos{
-        [Key]
-        public int PhotoId{get;set;}
-        [Required]
-        public string PhotoPath{get;set;}
-        [MaxLength(255)]
-        public string Desc{get;set;}
-        // [Required]
-        // public int CreatorId{get;set;}
-        // public Users Creator{get;set;}
-        
-
-    }
+  public class Photos{
+    [Key]
+    public int PhotoId{get;set;}
+    [Required]
+    public string PhotoPath{get;set;}
+    [MaxLength(255)]
+    public string Desc{get;set;}
+    // [Required]
+    // public int CreatorId{get;set;}
+    // public Users Creator{get;set;}
+    public int ResultsId {get; set;}
+    public ItemToView Results {get; set;}
+  }
 }
